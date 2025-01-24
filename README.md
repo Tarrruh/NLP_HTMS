@@ -1,2 +1,2 @@
 # NLP_DTMS
-NLP models using Bert and TF-IDF
+NLP sentiment analysis models using Bert and TF-IDF 
